@@ -12,4 +12,4 @@ https://github.com/abbosjon-kudratov/voiceRecognition-SaS
 
 ### `©2019 INHA UNIVERSITY IN TASHKENT, Uzbekistan`
 
-### `How to run the code:` " python fft_plots.py <input_filename> " // e.g. "python fft_plots.py test_yes_1.wav "
+#### `How to run the code:` " python fft_plots.py <input_filename> " // e.g. "python fft_plots.py test_yes_1.wav "
