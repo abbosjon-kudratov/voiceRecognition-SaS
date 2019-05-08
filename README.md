@@ -11,6 +11,5 @@ https://github.com/abbosjon-kudratov/voiceRecognition-SaS
 ### Umarjon Rajabov -u1610247/section001
 
 ### `©2019 INHA UNIVERSITY IN TASHKENT, Uzbekistan`
-### P.S. All the source codes and input files are the Folder named "src"
 
 ### `How to run the code:` " python fft_plots.py <input_filename> " // e.g. "python fft_plots.py test_yes_1.wav "
